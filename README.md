@@ -20,3 +20,5 @@
 - Matplotlib3.5..0
 - Sklearn0.0
 
+## Other Models
+补充 `LeNet`、`VGG`、`GoodLeNet` 等网络模型定义文件，train.py 与 test.py 通用
