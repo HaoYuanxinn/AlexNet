@@ -1,0 +1,26 @@
+# ==== IDE / editor ====
+.idea/
+.vscode/
+
+# ==== Python cache ====
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ==== Dataset / outputs ====
+data/
+
+# ==== Model weights / checkpoints ====
+*.pth
+*.pt
+*.ckpt
+
+# ==== Logs / results (optional) ====
+*.log
+runs/
+wandb/
+
+# ==== OS junk ====
+.DS_Store
+Thumbs.db
