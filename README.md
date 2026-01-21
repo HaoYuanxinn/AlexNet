@@ -1,9 +1,6 @@
-# AlexNet
-搭建AlexNet，使用FashionMNIST 数据集
-
 # AlexNet on FashionMNIST (PyTorch)
 
-用 PyTorch 复现 AlexNet，并在 FashionMNIST 上完成训练与测试的最小项目。
+用 PyTorch 复现 AlexNet，使用FashionMNIST 数据集。
 
 ## 项目结构
 - `model.py`：AlexNet 网络结构定义
